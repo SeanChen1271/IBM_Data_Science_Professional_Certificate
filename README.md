@@ -1,2 +1,2 @@
-# IBM_Data_Science_Professional_Certificate
-This repository is for the IBM_Data_Science_Certificate
+# IBM Data Science Professional Certificate
+This repository is for the IBM Data Science Professional Certificate
